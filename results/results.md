@@ -227,6 +227,8 @@ XRAY TraceId: 1-69c81c59-3298f19c6b3c1ae83d637ab3       SegmentId: 201d5c4fedab4
 
 ![plot_asA](figures/latency-decomposition.png)
 
+Zip starts faster than Container because ZIPs are simple archives that are extracted into runtime, and containers require pulling and mouning filesystem. AWS just need to process more data to initialize environment for containers than for zips.
+
 ## Assignment 3: Scenario B — Warm Steady-State Throughput
 
 | Environment        | Concurrency | p50 (ms) | p95 (ms) | p99 (ms) | Server avg (ms) |
