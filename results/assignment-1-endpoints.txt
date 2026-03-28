@@ -1,0 +1,36 @@
+root@kuba-Victus-by-HP-Laptop-16-d0xxx:/home/kuba/lsc_aws/lsc_aws# # Test via CLI invoke (bypasses Function URL auth):
+aws lambda invoke --function-name lsc-knn-zip \
+    --cli-binary-format raw-in-base64-out \
+    --payload "$(python3 -c 'import json; q=json.load(open("loadtest/query.json")); print(json.dumps({"body": json.dumps(q)}))')" \
+    /tmp/out.json
+cat /tmp/out.json
+{
+    "StatusCode": 200,
+    "ExecutedVersion": "$LATEST"
+}
+
+{"statusCode": 200, "headers": {"Content-Type": "application/json", "X-Server-Time-Ms": "63.762", "X-Instance-Id": "2026/03/28/[$LATEST]873afe8314a749d9ab37736b80f17948", "X-Cold-Start": "false"}, "body": "{\"results\": [{\"index\": 35859, \"distance\": 12.001459121704102}, {\"index\": 24682, \"distance\": 12.059946060180664}, {\"index\": 35397, \"distance\": 12.487079620361328}, {\"index\": 20160, \"distance\": 12.489519119262695}, {\"index\": 30454, \"distance\": 12.499402046203613}], \"query_time_ms\": 63.762, \"instance_id\": \"2026/03/28/[$LATEST]873afe8314a749d9ab37736b80f17948\", \"cold_start\": false}"}
+root@kuba-Victus-by-HP-Laptop-16-d0xxx:/home/kuba/lsc_aws/lsc_aws# 
+
+root@kuba-Victus-by-HP-Laptop-16-d0xxx:/home/kuba/lsc_aws/lsc_aws# aws lambda invoke --function-name lsc-knn-container \
+    --cli-binary-format raw-in-base64-out \
+    --payload "$(python3 -c 'import json; q=json.load(open("loadtest/query.json")); print(json.dumps({"body": json.dumps(q)}))')" \
+    /tmp/out.json
+cat /tmp/out.json
+{
+    "StatusCode": 200,
+    "ExecutedVersion": "$LATEST"
+}
+
+{"statusCode": 200, "headers": {"Content-Type": "application/json", "X-Server-Time-Ms": "69.600", "X-Instance-Id": "2026/03/28/[$LATEST]be2b5a48b6fd4904b5c562750736052e", "X-Cold-Start": "false"}, "body": "{\"results\": [{\"index\": 35859, \"distance\": 12.001459121704102}, {\"index\": 24682, \"distance\": 12.059946060180664}, {\"index\": 35397, \"distance\": 12.487079620361328}, {\"index\": 20160, \"distance\": 12.489519119262695}, {\"index\": 30454, \"distance\": 12.499402046203613}], \"query_time_ms\": 69.6, \"instance_id\": \"2026/03/28/[$LATEST]be2b5a48b6fd4904b5c562750736052e\", \"cold_start\": false}"}
+
+
+root@kuba-Victus-by-HP-Laptop-16-d0xxx:/home/kuba/lsc_aws/lsc_aws# curl -X POST -H "Content-Type: application/json" -d @loadtest/query.json     http://lsc-knn-alb-180738426.us-east-1.elb.amazonaws.com/search
+
+{"instance_id":"ip-172-31-26-212.ec2.internal","query_time_ms":23.72,"results":[{"distance":12.001459121704102,"index":35859},{"distance":12.059946060180664,"index":24682},{"distance":12.487079620361328,"index":35397},{"distance":12.489519119262695,"index":20160},{"distance":12.499402046203613,"index":30454}]}
+
+
+root@kuba-Victus-by-HP-Laptop-16-d0xxx:/home/kuba/lsc_aws/lsc_aws# curl -X POST -H "Content-Type: application/json" -d @loadtest/query.json     http://100.54.18.38:8080/search
+
+{"instance_id":"c2d6c9aca4c0","query_time_ms":28.44,"results":[{"distance":12.001459121704102,"index":35859},{"distance":12.059946060180664,"index":24682},{"distance":12.487079620361328,"index":35397},{"distance":12.489519119262695,"index":20160},{"distance":12.499402046203613,"index":30454}]}
+

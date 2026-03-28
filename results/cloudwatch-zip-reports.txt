@@ -1,0 +1,513 @@
+REPORT RequestId: 8431e456-1e84-45e5-b366-b985daa3985b	Duration: 77.64 ms	Billed Duration: 706 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 627.48 ms	
+XRAY TraceId: 1-69c8071e-41f36b3f118170c0509ae60d	SegmentId: bb26838a5f6651e0	Sampled: true	
+	REPORT RequestId: 0862fbc6-0f3e-4505-99c6-642a6c31e92d	Duration: 79.39 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8071f-57fb6ab67de75a0f13bf46aa	SegmentId: da170fa8890d59ae	Sampled: true	
+	REPORT RequestId: b43e3a9b-8828-4046-a3aa-c3d4cd9df472	Duration: 74.58 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8071f-2344a3634e3b1b2b289d737d	SegmentId: dfac014cbafe784b	Sampled: true	
+	REPORT RequestId: e9ea547f-28b3-4d7b-8db7-34acf070f350	Duration: 78.53 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80720-46b5c81f058ea3ba5d419a1a	SegmentId: c766989bd892bb5c	Sampled: true	
+	REPORT RequestId: 0682a4da-dbec-4f8d-b9f4-ec45b520e510	Duration: 74.82 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80721-4667783e572b60a978d56467	SegmentId: 60f938268737f545	Sampled: true	
+	REPORT RequestId: 7180be79-6615-4e69-ab4a-a23a7805bb09	Duration: 67.28 ms	Billed Duration: 68 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80722-375fdd3a1ff6926751bd9f77	SegmentId: 64b2685c95a6e06c	Sampled: true	
+	REPORT RequestId: c24dd85a-3414-4277-96fa-57ec44931e80	Duration: 84.82 ms	Billed Duration: 85 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80723-09ba890472f7e3a7575a8545	SegmentId: 16b9d9154e71a196	Sampled: true	
+	REPORT RequestId: 315e3fb3-e465-42a3-8d56-1f40e2b1936b	Duration: 74.59 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80724-1a846d20385b186c32e467f5	SegmentId: b07d35b62a671af3	Sampled: true	
+	REPORT RequestId: 2f8a9f61-2ac7-4562-b240-8438f3198b35	Duration: 66.08 ms	Billed Duration: 67 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80725-7b4366a32c1f1cf27dac911e	SegmentId: 8553fa0326a890f6	Sampled: true	
+	REPORT RequestId: 7157f969-e114-45fc-b584-c28a89081320	Duration: 66.56 ms	Billed Duration: 67 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80726-5ba5fc5c7d84d6a31c4e8cb7	SegmentId: b90acca21021498e	Sampled: true	
+	REPORT RequestId: 871773cf-c7ba-43e8-b369-469bf4ce9fcf	Duration: 79.96 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80727-7f0b9a1a0c93ddb33ab26bec	SegmentId: 0af37619e68419d7	Sampled: true	
+	REPORT RequestId: f8b8d817-707f-4cbb-9212-6b26873307d5	Duration: 82.48 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80728-4749dc9855ffd8c5231c061d	SegmentId: ee81a6a3f534a732	Sampled: true	
+	REPORT RequestId: 99d29b43-5761-40a2-bf83-b9d0eeeb1505	Duration: 78.27 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80729-64efe4c57537783a6a5a0a04	SegmentId: 8614c26f40dc1519	Sampled: true	
+	REPORT RequestId: ff7f903a-df89-476a-97cc-fb7ca444bdf3	Duration: 82.43 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8072a-58a6c7395aaed41a1160dc16	SegmentId: 164610a545406f4d	Sampled: true	
+	REPORT RequestId: b7177586-7b13-4ca6-a49d-ee737093b32c	Duration: 78.63 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8072b-6804f78c2b3e5c343e28a28c	SegmentId: 28a695a2eb49efd5	Sampled: true	
+	REPORT RequestId: 91dddbb6-acce-4b3c-9bcd-12073c8bd0a2	Duration: 79.51 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8072c-41c78e8362fe9c284a97173c	SegmentId: 086886979542be1d	Sampled: true	
+	REPORT RequestId: 750ab8ba-bb22-47ed-802e-5b6b3d93a405	Duration: 76.01 ms	Billed Duration: 77 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8072d-62e0ca7b41e68e87100b04fd	SegmentId: 7d4351385c6d0296	Sampled: true	
+	REPORT RequestId: e0bd8bfa-7329-4fc5-8658-7e33b560918b	Duration: 72.14 ms	Billed Duration: 73 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8072e-790153053e8429d83a7e17cb	SegmentId: 05737cd2850c28ee	Sampled: true	
+	REPORT RequestId: b9e5024f-2530-44b1-9978-927f37aef0dc	Duration: 71.01 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8072f-6774bd9c46c1e3736738a0b2	SegmentId: d7cb72058f133815	Sampled: true	
+	REPORT RequestId: e00e914f-3b36-444a-bb1e-740d53568e5a	Duration: 70.34 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80730-45e3f8ca7515fd452df20a01	SegmentId: 3116e1c97a3fab13	Sampled: true	
+	REPORT RequestId: 0e284a66-4fc9-45b4-a6fd-a69926fc302c	Duration: 86.54 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80731-38f327f02334e46a48474707	SegmentId: afd5b8e0469ccab4	Sampled: true	
+	REPORT RequestId: f22d1f9c-9e01-46d1-8877-28b86f1fdeb3	Duration: 77.32 ms	Billed Duration: 78 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80732-3df0c9f4213cbd227cb12c66	SegmentId: ad503346ed88e3db	Sampled: true	
+	REPORT RequestId: 625b9151-1548-40ca-bdc2-a70dc95eec41	Duration: 78.77 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80733-2b7339b66bacd5a9073a52ee	SegmentId: c29a7676d30e10d3	Sampled: true	
+	REPORT RequestId: 68ff2f76-68e2-40a8-8b9b-7928c41a1204	Duration: 86.70 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80734-0fa596093c20da8a208ac911	SegmentId: 5d88e0d20357329c	Sampled: true	
+	REPORT RequestId: cd9c140f-133c-49ae-9b6c-5be782bc3177	Duration: 79.74 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80735-4f0eda9a435dc68024f2ef7f	SegmentId: 823300e3de16acec	Sampled: true	
+	REPORT RequestId: 1af5154a-f633-4e74-8882-7b98a82d3dd1	Duration: 86.54 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80736-4ffe685b1ee75f0233a95e8e	SegmentId: 1b3cbbeb3b476a66	Sampled: true	
+	REPORT RequestId: 95da1bca-ae95-497f-9256-ece4e2719eeb	Duration: 78.34 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80737-03ff0f2423f5b52756892f55	SegmentId: 7c0a6150c139eb1e	Sampled: true	
+	REPORT RequestId: baadb1c8-8b2c-4bd0-bf11-53ef2da98932	Duration: 86.55 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80738-3167fe1c0dee3d774f29960b	SegmentId: d117d041f3a53ecc	Sampled: true	
+	REPORT RequestId: cc60fd7e-5385-496c-859d-d843859259d5	Duration: 83.98 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c80739-62b8bf2a25ba30a749d0c2f0	SegmentId: 4437c0554ef52e2c	Sampled: true	
+	REPORT RequestId: 2789e483-580d-4681-acbf-06ce8730bb43	Duration: 78.60 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8073a-1edbcc5c0aac1bde15be002b	SegmentId: eec72e903b7d9cca	Sampled: true	
+	REPORT RequestId: d5b6aad3-cfc4-440f-af2f-276cfbb78c65	Duration: 100.36 ms	Billed Duration: 729 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 627.83 ms	
+XRAY TraceId: 1-69c8176e-7ee2a008652209a70e2af536	SegmentId: 7031bbd5ded2055b	Sampled: true	
+	REPORT RequestId: 09165987-0374-4280-a7aa-d8d6e69227ae	Duration: 70.15 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81770-53d9fca41f4d2fb706b03823	SegmentId: 584b1e65fa3c8693	Sampled: true	
+	REPORT RequestId: 9821439b-7f67-40b1-a4c9-f1e50dff85b9	Duration: 72.22 ms	Billed Duration: 73 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81770-606d025f0885e5b844f3f88f	SegmentId: 6e14e9a8a6ec0ce7	Sampled: true	
+	REPORT RequestId: 20ef1a3c-1222-4dc6-854d-b3ea83e7b47e	Duration: 90.39 ms	Billed Duration: 91 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81771-432850b509b627f325d9ce1f	SegmentId: 6a262c2027057824	Sampled: true	
+	REPORT RequestId: 5e41520b-a806-47c2-935b-0513b24aeb79	Duration: 80.62 ms	Billed Duration: 81 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81772-53f5361844d9d83e10782541	SegmentId: b0747e54723be934	Sampled: true	
+	REPORT RequestId: 11fcd5cc-9307-4260-8081-abbdb2eeef67	Duration: 72.96 ms	Billed Duration: 73 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+	REPORT RequestId: 84a18e38-1697-47ed-9833-f4d66070f52e	Duration: 79.45 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81774-4a79d3ad57b3ff9002b91071	SegmentId: 7d9e802ba623e7c4	Sampled: true	
+	REPORT RequestId: 3ba93926-3486-48e6-839b-39e2b1ea469d	Duration: 73.79 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81775-6ff5e0a92db9b79a1ad39cae	SegmentId: 132879e84677a648	Sampled: true	
+	REPORT RequestId: 6da3367a-dbff-4fc8-b6b9-74b1d1f6ed39	Duration: 86.33 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81776-387f2f1e77f163996cfbbccb	SegmentId: 874ada650dd04773	Sampled: true	
+	REPORT RequestId: d211f06d-2cbb-4d55-a640-ffbf2c444339	Duration: 88.02 ms	Billed Duration: 89 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81777-15b666c92299e0cd52dddbd4	SegmentId: f3e9da2bedb52122	Sampled: true	
+	REPORT RequestId: c3fae147-6f3f-4d5e-ae94-a6874622cf18	Duration: 75.51 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81778-718c00924aaecacb059e6dae	SegmentId: aa7bd1f42fb8b40c	Sampled: true	
+	REPORT RequestId: eb139a92-647e-464b-b97e-03228ab758e2	Duration: 72.80 ms	Billed Duration: 73 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81779-6a96ecf62f4bdce50d41cb35	SegmentId: 08d3e6acccd65ae4	Sampled: true	
+	REPORT RequestId: a85d35bd-81f9-4392-bff3-506d30fca137	Duration: 70.08 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8177a-610a76417f5d1b9b7d32487e	SegmentId: 32b68e0cbe558a58	Sampled: true	
+	REPORT RequestId: 202b93af-583e-499d-a955-b4fbf803cb3f	Duration: 70.67 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8177b-07b998257a5f266454fa7128	SegmentId: 531eb311084fac54	Sampled: true	
+	REPORT RequestId: 374017fa-d43a-4597-853e-af0a0d99432f	Duration: 81.99 ms	Billed Duration: 82 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8177c-57ba6d2e2a49506050fcb501	SegmentId: f9c5f17537255e1e	Sampled: true	
+	REPORT RequestId: 9eae632c-268b-4f92-ad3d-7cf7ec676fdd	Duration: 71.11 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8177d-3e0ca67f531a1ed833ab9629	SegmentId: 2e8aabf489fad3e4	Sampled: true	
+	REPORT RequestId: d4f1cf6f-990e-4051-b294-42f7e3d562dd	Duration: 84.73 ms	Billed Duration: 85 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8177e-10df8f396fc09ef04ba0b5c7	SegmentId: c8d36a6ed9b592e5	Sampled: true	
+	REPORT RequestId: 1a0cc85f-08e7-4cd0-ad65-c287bec247b6	Duration: 85.68 ms	Billed Duration: 86 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8177f-76e235753af58293576f3d59	SegmentId: f072cb089652a8dd	Sampled: true	
+	REPORT RequestId: 00e2935e-2e56-4038-9300-c3f1c3432480	Duration: 83.29 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81780-3d63cb254b9032df47fcada8	SegmentId: d4ba90f64b4c91a9	Sampled: true	
+	REPORT RequestId: 1eff8ab8-7cdc-4f26-baca-8dbebd3459d8	Duration: 79.33 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81781-23f94f593bd6e7e5020158f2	SegmentId: b3448c73c8ccc9a1	Sampled: true	
+	REPORT RequestId: 1d07fcfa-6ae8-4357-a4d4-5b3e412ef61a	Duration: 81.67 ms	Billed Duration: 82 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81782-4b1c35052cd67da056a684ae	SegmentId: fe9b5a0fe557ae18	Sampled: true	
+	REPORT RequestId: 346d441e-e80e-4e53-87b6-94fde3ee6544	Duration: 74.39 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81783-650ace1b7cddac00054108f5	SegmentId: 2f8dd9a3199ba6c2	Sampled: true	
+	REPORT RequestId: 173cc0a5-dd48-421a-8e42-1fbab23bf6d4	Duration: 90.42 ms	Billed Duration: 91 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81784-17cf5f5a016f20065705766f	SegmentId: fffd18bd2acf2063	Sampled: true	
+	REPORT RequestId: 9dde69e8-7e27-435e-ada4-1d7b0ba81c4a	Duration: 102.74 ms	Billed Duration: 103 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81785-7be6e8153779a91756282b6e	SegmentId: dd54c472a9d7138f	Sampled: true	
+	REPORT RequestId: 2c5eeff1-dbc2-4f5d-97d7-4cc88d447e66	Duration: 74.84 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81786-00eb951774ec63bd00c932ff	SegmentId: 7980573b5f458090	Sampled: true	
+	REPORT RequestId: a46623a3-a98c-4014-9363-3e16891676ff	Duration: 66.51 ms	Billed Duration: 67 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81787-215695353a83e6125a0ee65b	SegmentId: b9396270da718735	Sampled: true	
+	REPORT RequestId: 82795737-5990-4922-b87f-3582c058eb56	Duration: 83.08 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81788-3c4daf395813309f1c594459	SegmentId: cc25dd8bc9f773c9	Sampled: true	
+	REPORT RequestId: ba9f2651-bb20-46ee-b17f-4db31c668e9c	Duration: 74.82 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c81789-557189e210c8af463ea44810	SegmentId: 209e4840f3473c8a	Sampled: true	
+	REPORT RequestId: 94fba514-1e56-4717-9334-d501a0bd6b28	Duration: 71.64 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8178a-3c91ffa242a2c5b41e3d7d2f	SegmentId: 99087fa25a0d161a	Sampled: true	
+	REPORT RequestId: 93bc8210-ee26-4959-b578-ae28f58b7b45	Duration: 74.47 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8178b-59aacdb4626676f2312de3f0	SegmentId: dc4eef11b1ce048d	Sampled: true	
+	REPORT RequestId: 5a971804-a6a8-40d9-9638-4dff0df552d1	Duration: 37.18 ms	Billed Duration: 584 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 545.92 ms	
+XRAY TraceId: 1-69c82416-339f28825de1681e2e8aad27	SegmentId: 0ad510234132b8a7	Sampled: true	
+	REPORT RequestId: c72cb14b-d8c7-4abc-87ca-120f6c721108	Duration: 73.55 ms	Billed Duration: 691 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 617.26 ms	
+XRAY TraceId: 1-69c82416-53a561757174a9e95cda6b21	SegmentId: ee08be5377d3a638	Sampled: true	
+	REPORT RequestId: 66eb1c0e-d772-4f23-9185-a642dc88532a	Duration: 85.55 ms	Billed Duration: 687 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 600.70 ms	
+XRAY TraceId: 1-69c82416-5451c6964f01925916ef2e71	SegmentId: eedd9e9a2eee36fa	Sampled: true	
+	REPORT RequestId: 2b00603e-9ce7-47ee-bee0-bf0bec3af080	Duration: 85.94 ms	Billed Duration: 697 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 610.54 ms	
+XRAY TraceId: 1-69c82416-79b7082f474927780782b24d	SegmentId: 827549a249b10247	Sampled: true	
+	REPORT RequestId: a348536f-ca09-4634-bd46-ed6f15352398	Duration: 85.20 ms	Billed Duration: 707 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 621.16 ms	
+XRAY TraceId: 1-69c82416-3b9a00681f893b5c71949087	SegmentId: 9e5f6863b731bd52	Sampled: true	
+	REPORT RequestId: d44a3856-0692-4d04-95ad-80ec7889fb72	Duration: 77.54 ms	Billed Duration: 712 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 634.16 ms	
+XRAY TraceId: 1-69c82416-0a32ccb029d794ca53342886	SegmentId: 9bf43d6eb8759166	Sampled: true	
+	REPORT RequestId: 027b80bb-c388-408d-bfeb-5b73efccba39	Duration: 85.67 ms	Billed Duration: 723 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 637.15 ms	
+XRAY TraceId: 1-69c82416-20144d2f3241ca772a13dbf9	SegmentId: 37a02a4ee2530c68	Sampled: true	
+	REPORT RequestId: 792fbe5a-8961-4708-89ba-0985210bf7da	Duration: 92.40 ms	Billed Duration: 720 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 627.48 ms	
+XRAY TraceId: 1-69c82416-4565d4d900a4ec05551c7bd2	SegmentId: 5535fb416125d62b	Sampled: true	
+	REPORT RequestId: 02599d0d-1e37-4faa-834a-cf12080ef792	Duration: 80.89 ms	Billed Duration: 701 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 619.25 ms	
+XRAY TraceId: 1-69c82416-58155e6844b387a16f32467b	SegmentId: a15a03c87155bc13	Sampled: true	
+	REPORT RequestId: d81655d3-7128-4a53-8adb-f29151e5139d	Duration: 92.70 ms	Billed Duration: 752 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	Init Duration: 658.91 ms	
+XRAY TraceId: 1-69c82416-7321901a3ee7e907796a41dc	SegmentId: c20e4f831c34d05b	Sampled: true	
+	REPORT RequestId: a3886b59-7326-409f-a302-8dd902e69bf0	Duration: 86.38 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82417-477a3b9568a4b4d75c9d34da	SegmentId: 574d3d4bd8cd4dfc	Sampled: true	
+	REPORT RequestId: bf08f888-b1b2-4959-8440-8a30f41608ab	Duration: 72.71 ms	Billed Duration: 73 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-76b4bdde61c6a0dd5d994e9d	SegmentId: 1693c8e221e3463b	Sampled: true	
+	REPORT RequestId: 0ef3c670-d76b-4e5a-809e-6af25f8a7012	Duration: 76.83 ms	Billed Duration: 77 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-7c08668076428a0918676ba4	SegmentId: ca430378a5a47eaf	Sampled: true	
+	REPORT RequestId: cbdf17d9-adb7-4ca5-a7a1-c30c0c2c8adf	Duration: 74.41 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-46881f856b8af53c1f38a21f	SegmentId: 4c68166a4fa31caa	Sampled: true	
+	REPORT RequestId: 94e38275-4a7f-49d1-a7a5-5195aa886753	Duration: 75.63 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-2efe02d122dde4d965164be8	SegmentId: 41d314a4e4965a42	Sampled: true	
+	REPORT RequestId: 472ffca8-84fd-49b5-b758-8a347cc1cf73	Duration: 74.67 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-4ec96fc3016a595925db5e8d	SegmentId: d78665e1fda48e55	Sampled: true	
+	REPORT RequestId: 68293802-aa4f-4cbc-880f-1793d63c346b	Duration: 78.13 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-0ff1299f6435b02614939171	SegmentId: f5fa06aa0d33e75d	Sampled: true	
+	REPORT RequestId: 265107d4-ed2b-4350-bf58-3b05ee469a84	Duration: 74.55 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-26f6fb703d72a9dc7a217c4a	SegmentId: 209078151990ebb6	Sampled: true	
+	REPORT RequestId: 045e6d9c-4332-4476-a291-dd68d94c9f45	Duration: 70.27 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-07a8e82e2997792d6cc7e355	SegmentId: afef8e81af9d720b	Sampled: true	
+	REPORT RequestId: 30c99b40-90c1-42d5-bcc1-51f708deacf2	Duration: 86.74 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-07b912f76c0ee41d653cd57a	SegmentId: 15f897a9c958ab11	Sampled: true	
+	REPORT RequestId: 69350932-468a-4ef8-86a0-cc8d234fd312	Duration: 84.95 ms	Billed Duration: 85 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-62a9196d28683331477663b7	SegmentId: 98673f2972545e50	Sampled: true	
+	REPORT RequestId: 143539d2-7187-48a5-a462-69c01836441b	Duration: 70.92 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-2f79f64c09ab7e2d7ef0e2a8	SegmentId: b303aad8f70d6121	Sampled: true	
+	REPORT RequestId: d9e36d3a-79b2-4096-96d5-56187a6ee38c	Duration: 73.84 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-61d613b563e625883d81720a	SegmentId: 48ea1587373b124c	Sampled: true	
+	REPORT RequestId: 881183ec-d4a4-4283-ae5f-7f9a45d59a8d	Duration: 78.18 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-65bcd2cf120f178f221bee37	SegmentId: afe740a6cc6ab10c	Sampled: true	
+	REPORT RequestId: be76eec1-7f7c-425d-acbf-26aa74a7c4f9	Duration: 76.45 ms	Billed Duration: 77 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-773c72ef31de8eee5a17a937	SegmentId: 47a861a984361f57	Sampled: true	
+	REPORT RequestId: c33efb7e-53a7-4e3c-8dc1-d4b2e4ec1b87	Duration: 94.89 ms	Billed Duration: 95 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-3ecbee791c9939ca67345abc	SegmentId: c1c2e3f704fd2a8a	Sampled: true	
+	REPORT RequestId: 31175907-0eb6-4de6-8842-c6ff55e18802	Duration: 72.00 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-653278925137d09d4a380574	SegmentId: 6ad69ed93969a118	Sampled: true	
+	REPORT RequestId: f6bd3bd5-a59d-47b4-aac4-daf913d6d923	Duration: 75.46 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-4ff4c1b435b8ed204d8a737e	SegmentId: dd38cd166e28576a	Sampled: true	
+	REPORT RequestId: d6ef5fe9-dd63-471e-af87-5ef065931f72	Duration: 70.41 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-6bb64f51114f356b33448295	SegmentId: 128f251470af0069	Sampled: true	
+	REPORT RequestId: 3ddf1d68-0755-4501-8454-74f0212fa831	Duration: 74.88 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-6b1f921023f66aec09a82dac	SegmentId: 8a5a8dfcf9986cbd	Sampled: true	
+	REPORT RequestId: b82c37ce-1257-48a8-acb1-4087f225f559	Duration: 72.44 ms	Billed Duration: 73 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-74a0b7831b89042b2abffa3d	SegmentId: 7884945cdaf1d0c6	Sampled: true	
+	REPORT RequestId: 7d3193c7-242d-4d01-85c2-39287a570f21	Duration: 65.93 ms	Billed Duration: 66 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-7c28bdec4ceec71862107ea9	SegmentId: 2452296ddd8274c7	Sampled: true	
+	REPORT RequestId: 78706534-477f-41b7-b311-c961df31aafe	Duration: 86.85 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-54c803fc27c9ea652eeaaf3f	SegmentId: a6d76806bd997092	Sampled: true	
+	REPORT RequestId: 1213d60a-b494-4648-a936-77d916ab1f47	Duration: 74.93 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-7964673074b52a816b538b8a	SegmentId: 197d0f7572c92558	Sampled: true	
+	REPORT RequestId: 508c5ca1-bc27-4bcf-8bb0-9d8a4e613320	Duration: 84.07 ms	Billed Duration: 85 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-38676ca363c43b785b46d2dc	SegmentId: 94bc344517638d50	Sampled: true	
+	REPORT RequestId: 6bd2677a-84df-43da-945f-078cf2449ae5	Duration: 74.00 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-4725c075476e0b8b47417af2	SegmentId: 327d71879fb5273f	Sampled: true	
+	REPORT RequestId: 1226aaa5-7a9d-4c5e-b1f5-fcf5a68abd29	Duration: 75.40 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-659ebf467034a637637bd94e	SegmentId: f342341c6b890c7f	Sampled: true	
+	REPORT RequestId: 271818b5-815c-4eee-8903-a68eb4df9c03	Duration: 86.13 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-0bd012953a2adbf91b8b8ba8	SegmentId: 7df03f18452a1c77	Sampled: true	
+	REPORT RequestId: 0da98d2b-e118-421b-bceb-ff0e691db19e	Duration: 87.48 ms	Billed Duration: 88 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-7104847734ff64bb1c25c0dd	SegmentId: 0baefaa496cae44e	Sampled: true	
+	REPORT RequestId: 8cf62d88-7bc7-4e4c-826e-7e86bba73e62	Duration: 69.84 ms	Billed Duration: 70 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-69ab9dd91752b6c44f497f98	SegmentId: 5a6c3062ab3bf1a6	Sampled: true	
+	REPORT RequestId: 641b4420-4629-4d27-9539-8a13b2a00d75	Duration: 94.21 ms	Billed Duration: 95 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-6db0a8933f884fe4056d64b4	SegmentId: c50629443a6fbd08	Sampled: true	
+	REPORT RequestId: 7b729824-0bd7-411a-8708-ec42b2f76890	Duration: 69.99 ms	Billed Duration: 70 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-1ac137906c62733f76814dce	SegmentId: 514b041b384aaf85	Sampled: true	
+	REPORT RequestId: 4f7faf6c-8df2-41e6-855e-c8af7ee1eccd	Duration: 73.82 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-2eae42ba1c523ec63fbc912c	SegmentId: ad2da3bcd74fd2ef	Sampled: true	
+	REPORT RequestId: ae79d08a-c604-46a7-bff7-3edaadf4f43b	Duration: 74.25 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-5e7b567464a044d20e99eaf8	SegmentId: abf33525a4773896	Sampled: true	
+	REPORT RequestId: 74eb9a6f-bdb3-4c93-9d82-fc6415df6133	Duration: 78.79 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-35649c702fd5a94337406845	SegmentId: 13de86f2fd81979e	Sampled: true	
+	REPORT RequestId: da988936-95a1-4588-b3e7-f9e7a31861d1	Duration: 70.49 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-2bc23d0f0c3a56d8747e6ef5	SegmentId: 93c8875f8604fea4	Sampled: true	
+	REPORT RequestId: a6174d98-87e3-4170-bc4e-fc5688a68625	Duration: 75.44 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-338991071fc66a0677d24fa4	SegmentId: 16c10ee891a48791	Sampled: true	
+	REPORT RequestId: 08008533-cc45-4f69-b86a-752242109ccf	Duration: 78.75 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-236349fd71f4b63f01cefe59	SegmentId: 60bea9543889826e	Sampled: true	
+	REPORT RequestId: 0acf96e5-5f6d-465a-aed3-541e075238fb	Duration: 90.52 ms	Billed Duration: 91 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-0e5b1c01644d4a8f1c9b5056	SegmentId: e7908f4ebe20c1c4	Sampled: true	
+	REPORT RequestId: 436ae079-7c03-4d79-b302-545e5398e082	Duration: 69.70 ms	Billed Duration: 70 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-426974e814b0c659263363de	SegmentId: 40d4a559c4a107d7	Sampled: true	
+	REPORT RequestId: 6a7e9494-6db2-43fa-a017-7bac10203cf9	Duration: 70.80 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-1c36682d0138e2705e4e2af1	SegmentId: 5634f21f9d1e584f	Sampled: true	
+	REPORT RequestId: 682b1873-9ff3-46bd-8fae-3193b91b72ee	Duration: 79.25 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-18d054111163aecc3e8e42d4	SegmentId: 64ff43fb9e2edec8	Sampled: true	
+	REPORT RequestId: 47db9c82-768f-4b42-b998-ad2df186c2b8	Duration: 73.82 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-5ab66b553cc0df1b5df9301b	SegmentId: ebfa54fbf014ab43	Sampled: true	
+	REPORT RequestId: e57d7d8a-52a4-4010-9e30-3abaf01314d6	Duration: 86.43 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-767c0f9b44e7f46e1fa9bbc4	SegmentId: 8c76e3a8297faba7	Sampled: true	
+	REPORT RequestId: fa243e87-f00b-49ed-909f-83320ce38d26	Duration: 91.40 ms	Billed Duration: 92 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-618cf1d704b3efa66aa2e57a	SegmentId: 9e12b9a8b93fe113	Sampled: true	
+	REPORT RequestId: 76c47a74-1fd5-4466-9745-48b72706a01a	Duration: 70.63 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-2fa9661944aa948249275c7c	SegmentId: ecac1d1cf5558e07	Sampled: true	
+	REPORT RequestId: 83cc6dd3-5a46-4155-bc8c-efef1c5920f8	Duration: 77.92 ms	Billed Duration: 78 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-01dd44126fcefac42ddd8130	SegmentId: 9fdf1db6b7dfaa76	Sampled: true	
+	REPORT RequestId: a576cdc9-ddab-401e-931f-928c8c74542d	Duration: 75.82 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82418-1a75a2f304fe99c62410ac29	SegmentId: e4809cf4daed5594	Sampled: true	
+	REPORT RequestId: 88f77fe5-bf88-4849-bddd-85f0ff70c8a8	Duration: 69.93 ms	Billed Duration: 70 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-0508ac5b75c7a543592091d2	SegmentId: f3adb71135524b15	Sampled: true	
+	REPORT RequestId: b31a7cf9-104b-4ba6-872c-9352fdb842fd	Duration: 79.66 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-276eaae35c6d3b5c37c940f3	SegmentId: 5e71142b0c78b3ff	Sampled: true	
+	REPORT RequestId: 892456f1-2029-4739-8688-b8593522d51d	Duration: 82.95 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-66d60b0c6ad545da3af09ecd	SegmentId: 184568a9c5d2b31e	Sampled: true	
+	REPORT RequestId: 0082e2bd-f1a1-4ba2-b46a-aaa7b425c62a	Duration: 79.64 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-58ad9c025ea2575a59bcac6e	SegmentId: a5258f9e0c8d323d	Sampled: true	
+	REPORT RequestId: e3b64931-7014-407f-9208-ba607d1e6dca	Duration: 74.41 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-0070810a0e8c0d950b928578	SegmentId: f20d08055f910a76	Sampled: true	
+	REPORT RequestId: 27de2b5c-b3b6-4de2-aa10-27f348046366	Duration: 81.88 ms	Billed Duration: 82 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-38e4b2d258941b7a26f468ec	SegmentId: 32b47a70dbbbef82	Sampled: true	
+	REPORT RequestId: ade7669a-d03c-4391-aee7-3db69e8ccaf0	Duration: 82.00 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-102ef7da3a0b98315e39aab4	SegmentId: 06f6cc0a4d6f93fe	Sampled: true	
+	REPORT RequestId: 9f4bd3fe-b6da-4934-8ae4-ce13fb9d0850	Duration: 75.06 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-7ca09f706046c42b157383d2	SegmentId: 9b5a2de2b32fd252	Sampled: true	
+	REPORT RequestId: 64e58102-dee4-49e1-b986-886069958fa6	Duration: 86.50 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-504180a75a4e8d36306c5767	SegmentId: e36daf3344971c0b	Sampled: true	
+	REPORT RequestId: 4921d9a0-44bd-4cba-a1ff-c72f629610a5	Duration: 88.98 ms	Billed Duration: 89 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-24272d845bf072c377369abd	SegmentId: ccbda17bdbef5dc1	Sampled: true	
+	REPORT RequestId: 33b23207-6d2d-4e3d-aeaf-bc9d90113424	Duration: 71.19 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-52df24a4380ad85939bc66ef	SegmentId: 41d9cb1bdd5d1246	Sampled: true	
+	REPORT RequestId: 2746140a-40e9-400d-8f7d-303f3da76d6b	Duration: 78.89 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-2da2d7aa00439a3b1decb3ac	SegmentId: 8d41d0c6d4b8aedd	Sampled: true	
+	REPORT RequestId: 232e3954-7d63-42fe-8a78-c140324c5d2e	Duration: 82.32 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-6f315f4e0cb9ce8d7342c49e	SegmentId: 12e55dfa04b6b841	Sampled: true	
+	REPORT RequestId: f54ba7cc-1876-48d9-a3a9-99f27a40fec2	Duration: 78.08 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-5f9f388125e3ef9d39692b4c	SegmentId: ddf5c2788b5b1a1d	Sampled: true	
+	REPORT RequestId: b6d1badf-f086-4b09-8619-1e5266d26401	Duration: 70.72 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-5f6ec0d43f8bef8920089b72	SegmentId: 629535656436b95f	Sampled: true	
+	REPORT RequestId: 0232fbac-8038-42b8-b094-fa642b478979	Duration: 66.39 ms	Billed Duration: 67 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-5cad797d25276462122d58e0	SegmentId: f90d94a2d87dd886	Sampled: true	
+	REPORT RequestId: 4d7f504b-6318-45b8-b4e5-75f59ddb0d21	Duration: 79.89 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-4c6904591b26459f60318ebe	SegmentId: 1cf78389aba00859	Sampled: true	
+	REPORT RequestId: f6f636b7-30d6-4044-a766-eb11ba1d068c	Duration: 71.13 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-16ec62066f17c1d46e4caf92	SegmentId: b90d9bad1ae0f839	Sampled: true	
+	REPORT RequestId: 992da12e-2fee-4952-9419-aa6405237f3b	Duration: 73.92 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-1c3e28856ac3689050662dbe	SegmentId: 76c3fb58061a1941	Sampled: true	
+	REPORT RequestId: f18378f6-a965-473b-a186-c9876edcd61d	Duration: 73.89 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-4b50f2731d04437b1bcbd872	SegmentId: fb81e06222e1c3a3	Sampled: true	
+	REPORT RequestId: e1f590a3-0938-4bf6-a82e-d7f70f823598	Duration: 74.05 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-7ba9bf0018c6cb672845ce0b	SegmentId: 11a0bc0b04899d72	Sampled: true	
+	REPORT RequestId: 5d51a50b-87de-49c6-85cd-4483f5286f75	Duration: 83.74 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-5b89d3670e509f765180e4bc	SegmentId: 55762a551a51ab18	Sampled: true	
+	REPORT RequestId: 248d2fec-c13c-4c8f-93de-9d28c577c9e4	Duration: 92.53 ms	Billed Duration: 93 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-2de920f45e843114058f596c	SegmentId: 4cf9b59693a9940e	Sampled: true	
+	REPORT RequestId: 91e726e0-d445-4b87-898e-0dd33e61ce51	Duration: 71.04 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-22c95f4942f0ac002c35c366	SegmentId: f35b879b3ea7b855	Sampled: true	
+	REPORT RequestId: b4c167cd-7c15-4635-a77c-a6a38170a7f3	Duration: 70.13 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-797736e53a37bc791303b30b	SegmentId: 9aafeecacad69b79	Sampled: true	
+	REPORT RequestId: 703bfc28-0970-4d15-ba1b-dc2c6921996a	Duration: 74.63 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-6c62fd0576a7c49f2b68954f	SegmentId: a752b29cb8a3cec0	Sampled: true	
+	REPORT RequestId: d37f5c77-bb6f-4887-9f31-9c8327a56d25	Duration: 74.16 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+	REPORT RequestId: e33fd25b-0937-4969-947f-cd3dc454ce6c	Duration: 82.48 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-593e4e353e2e56e34c6574a1	SegmentId: fae454290d194dba	Sampled: true	
+	REPORT RequestId: cc3612e6-c7b4-4b1d-8e58-ee6f3354e707	Duration: 69.91 ms	Billed Duration: 70 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-05e881ce2a9d08e9205b9ffc	SegmentId: cfb58bcebe115103	Sampled: true	
+	REPORT RequestId: 6df23eb5-28e0-41fb-bfc8-c09bb420071a	Duration: 76.19 ms	Billed Duration: 77 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-17e9fca6081dab370ee81598	SegmentId: d7e50416c61a7990	Sampled: true	
+	REPORT RequestId: 673dcae9-48a6-4335-9368-ec7c7a71247b	Duration: 78.80 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-6e6b7d0b1b7a5fa57f294c2a	SegmentId: 009769a9b2e5f4c8	Sampled: true	
+	REPORT RequestId: b6052d8a-a529-43fe-87b2-30e824a69a04	Duration: 73.90 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-4c837c0b05ade55f6a508aad	SegmentId: 5bebceaed4fa622f	Sampled: true	
+	REPORT RequestId: 90bc899a-f4ff-4327-8cd3-6bb65e84dc29	Duration: 82.01 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-6cc0e4913425b4cb1ee401a5	SegmentId: 90e845fc04d5ffde	Sampled: true	
+	REPORT RequestId: d4bf332d-e5bd-4afa-869a-f1e4198cd532	Duration: 71.93 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+	REPORT RequestId: 09137218-2ade-46f5-8cb7-459add2c372c	Duration: 69.45 ms	Billed Duration: 70 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-2c42281e097248ef390e8aca	SegmentId: 782869eac60825d9	Sampled: true	
+	REPORT RequestId: 7ab87231-2ba6-49fd-a48f-b5d638f54b56	Duration: 74.72 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-66b7b7d87aab1883307fd44f	SegmentId: 6c3451ef7da68788	Sampled: true	
+	REPORT RequestId: 30228c6c-fa61-4b9a-a094-261d62458a27	Duration: 70.50 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-47f152bc4f92b05223990019	SegmentId: 552361c41833c219	Sampled: true	
+	REPORT RequestId: 661c0bf3-d46e-4bba-bbbb-8a84b31f945c	Duration: 70.33 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-37e4c3141b0be2022fab0fc1	SegmentId: 02b37cb7ec2f6750	Sampled: true	
+	REPORT RequestId: 55206337-1d8e-4478-b8f0-bb90086ae1a9	Duration: 68.17 ms	Billed Duration: 69 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-7d00c92e53d89e841c4cdc1e	SegmentId: a150a25ccae540c0	Sampled: true	
+	REPORT RequestId: ed98b777-3582-4b86-ad92-a219d776031e	Duration: 78.62 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-7bd074b64c16382e666b3533	SegmentId: 857891e7995efa9a	Sampled: true	
+	REPORT RequestId: 81464f36-cd75-46fe-a64c-0d255aca98b5	Duration: 78.56 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-261ac7ea1239c4990cc12d79	SegmentId: af182b631a379f33	Sampled: true	
+	REPORT RequestId: e945e167-712d-4391-8c05-650484b10da2	Duration: 82.54 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-758cf14b5131de757fb5da5d	SegmentId: 69ffb65c504dc1c9	Sampled: true	
+	REPORT RequestId: e14fa789-eada-4956-8450-72c80dd5054f	Duration: 87.88 ms	Billed Duration: 88 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-7091426808eed0766e28d163	SegmentId: c8c4d7d5c69419c5	Sampled: true	
+	REPORT RequestId: c7a90481-d3cb-43c5-a828-784b01ef1dd3	Duration: 74.42 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-42c98104270d5a330a272cf3	SegmentId: 06d7af372711bc72	Sampled: true	
+	REPORT RequestId: ae003cb4-71c4-4c14-aa2c-7009df771ec7	Duration: 74.02 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-206fff13455f43aa250e3b93	SegmentId: 0c08e32d463f8138	Sampled: true	
+	REPORT RequestId: 0e9d3d86-7c6f-4cbb-b9b9-f0e1435dbe81	Duration: 71.11 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-65404f7d11dd0d39365aaa82	SegmentId: 3fe091f30833ff82	Sampled: true	
+	REPORT RequestId: 6f41e8b1-9eaa-46b4-b833-ba0f055eef64	Duration: 81.86 ms	Billed Duration: 82 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-7deb944152cb569d7961f460	SegmentId: dd788360c5a8a724	Sampled: true	
+	REPORT RequestId: 5f1cd27a-1235-4fa2-aeed-de36b0aea6f2	Duration: 74.44 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-506a596a53ed6d4038d07dc5	SegmentId: 10478c890ef1b6fd	Sampled: true	
+	REPORT RequestId: c4446e78-631e-4de6-802a-060ebfd66d04	Duration: 71.02 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c82419-1e486504157ee5814dfabc75	SegmentId: e0f0a487cd3e4535	Sampled: true	
+	REPORT RequestId: 6806440a-e331-4278-9a58-c862ab797ae3	Duration: 83.95 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-08c9958443f0a05631699c38	SegmentId: 4ca45451b651352f	Sampled: true	
+	REPORT RequestId: fb1ecb38-fdb2-42f9-bae4-4f0efa2c312f	Duration: 86.43 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-11de99d136172e85660b2184	SegmentId: fca2e26eb906af9b	Sampled: true	
+	REPORT RequestId: b16ba74d-97eb-4d26-a4a9-b9e1b011ce33	Duration: 70.98 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-4725981c688c80526e5d1f9b	SegmentId: 95eedfa252307074	Sampled: true	
+	REPORT RequestId: 79167c34-3311-48f8-b7cd-9df53d8be704	Duration: 78.25 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-483776ac505f2bc34f97b339	SegmentId: eb32b58873c165cd	Sampled: true	
+	REPORT RequestId: cb543550-8d83-42f2-a27e-ec157b97e7e6	Duration: 73.61 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-447b49c2320a4ba34dc450b2	SegmentId: 7e4d0a52b357b54f	Sampled: true	
+	REPORT RequestId: 4071abbd-20a5-4eb6-a141-2382d014f74a	Duration: 66.34 ms	Billed Duration: 67 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-48a21b1f665ea0726196706b	SegmentId: 485853f37e6175cf	Sampled: true	
+	REPORT RequestId: 3954276a-7e1e-4e84-bde3-58375dd41285	Duration: 70.98 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-2ae625112b2d175c337e0986	SegmentId: 733d7a1ece6a54ca	Sampled: true	
+	REPORT RequestId: e2ff8adf-5756-4411-a2c4-306a90ac45ac	Duration: 70.14 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-3de4c6ad5d6514e736e5325f	SegmentId: 334294e6ce2b557f	Sampled: true	
+	REPORT RequestId: 1989b322-fa49-4bf0-8001-5ed5d0cc549e	Duration: 82.28 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-4afbedaa087d2b8e0f34f00d	SegmentId: c598f79621b6a035	Sampled: true	
+	REPORT RequestId: 2a4c3377-d04d-423a-9239-c406d78c0528	Duration: 90.17 ms	Billed Duration: 91 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-7ca0bfe238a49705382c275e	SegmentId: f75846f94790355a	Sampled: true	
+	REPORT RequestId: 528d1605-09b0-48d9-8ced-e752b52cf6b5	Duration: 78.81 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-66cc35fd07eb03c70381dcf0	SegmentId: 8351c77bc5ea72df	Sampled: true	
+	REPORT RequestId: fcdfafca-2be9-446b-9a88-b0f0bf07b2a6	Duration: 75.32 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-1c3aa06e79938c7072c89aa3	SegmentId: d104fb1219b4a9bc	Sampled: true	
+	REPORT RequestId: 3d00342e-0848-44d8-a08c-cc4c1f410233	Duration: 66.30 ms	Billed Duration: 67 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-5893de46494d9f774cba737b	SegmentId: b158b098219b1e18	Sampled: true	
+	REPORT RequestId: b8a27501-836a-4eb3-952f-062032a7c654	Duration: 74.29 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-2773df4e6f64fe4c4a31ff6c	SegmentId: a31fc49d821ba2eb	Sampled: true	
+	REPORT RequestId: 43925963-78bb-41bb-8e1a-91254a18cb16	Duration: 82.55 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-7b7e2b8003105fa005b35a0c	SegmentId: f0c3277789398f87	Sampled: true	
+	REPORT RequestId: 0b2c8d74-d628-4580-a7c6-1913d0cb957a	Duration: 69.81 ms	Billed Duration: 70 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-5fbb529c2c0e6aea047fdb43	SegmentId: a57699e984527902	Sampled: true	
+	REPORT RequestId: 9d32fb1c-1156-4561-9a5b-31e5dd46febf	Duration: 82.51 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-3c3d1a8d007a132364ff589f	SegmentId: d8cd7366aa75fd06	Sampled: true	
+	REPORT RequestId: c2d122ab-4590-4ac9-9312-7ecf365b4820	Duration: 82.12 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-3a18595d78fb0cca05a06f0c	SegmentId: 84ffa9c3b3a69e1a	Sampled: true	
+	REPORT RequestId: fdc7e533-4390-4c5c-ae2d-84ec06680edd	Duration: 71.84 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-40fefde9254f96b91c8200f1	SegmentId: ca92928d8acb24e0	Sampled: true	
+	REPORT RequestId: 5147db27-d16a-413e-bfd6-a7474d797b10	Duration: 71.09 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-654cf18264727c447ad092e7	SegmentId: 0124f550c4c98c73	Sampled: true	
+	REPORT RequestId: d7c9277d-83dc-412a-82eb-c7ee97009c99	Duration: 74.05 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-72ba5bb47d79b7c47149ceef	SegmentId: bee2645f6c0a2363	Sampled: true	
+	REPORT RequestId: f6eb78cd-8557-40fd-9c2f-4302866609ed	Duration: 78.23 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-53a7572732268a281cd45d06	SegmentId: 3a905aae5b114ad3	Sampled: true	
+	REPORT RequestId: 0976c6b7-d0d9-4347-bf3c-42dabd06073c	Duration: 71.06 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-006afb1201bd168b1e7f68cd	SegmentId: 5a2da242853dd9f4	Sampled: true	
+	REPORT RequestId: 0aa4e33d-1f48-43f8-93dd-668d399c138d	Duration: 80.56 ms	Billed Duration: 81 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-356348be5b183a2d12e3c638	SegmentId: 170ae06e2a2bf934	Sampled: true	
+	REPORT RequestId: f72de768-6921-4778-9e4f-235194b89b64	Duration: 73.99 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-0af25aeb3c48fcb00c14419a	SegmentId: 7ead18b4ad352103	Sampled: true	
+	REPORT RequestId: d56ec87a-329f-4a51-932e-dedd7c1f3b8e	Duration: 66.21 ms	Billed Duration: 67 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-7a6bbdc73aa9d3af69e4485c	SegmentId: 3d1f0ed79de57392	Sampled: true	
+	REPORT RequestId: 43d897be-89ff-4230-bfbb-18cd35494c48	Duration: 74.63 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-36d805d66b8658a534d26fe8	SegmentId: 6e4987b6d9d7d716	Sampled: true	
+	REPORT RequestId: 9435f56f-2d82-49e7-943e-b219d0d538f6	Duration: 82.15 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-0ff500786ff3a778322b4463	SegmentId: 3cdaf9033abb35eb	Sampled: true	
+	REPORT RequestId: 97acc87c-9718-47c2-a11e-f367eaa2100e	Duration: 70.16 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-4dc1a3ca5466165a4ed8735f	SegmentId: 813842809a4f55b1	Sampled: true	
+	REPORT RequestId: 3733f47a-dc9b-47fa-8d96-02a6747f096e	Duration: 86.35 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-6c84b35c32bc744879a9e72b	SegmentId: cb59593163a8c6d3	Sampled: true	
+	REPORT RequestId: afe90237-b8e0-4355-980d-2f0ecc731d1f	Duration: 73.71 ms	Billed Duration: 74 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-11e52a1033d80a4349a726bb	SegmentId: bbaf15a05cd9087f	Sampled: true	
+	REPORT RequestId: 2939d273-2567-4bc9-bc36-cc546dc2e138	Duration: 85.67 ms	Billed Duration: 86 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-491e73ed613227d75bbad90c	SegmentId: 60ca87cf542732ca	Sampled: true	
+	REPORT RequestId: ef02012e-853b-42a0-bb35-d562094db9af	Duration: 69.85 ms	Billed Duration: 70 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-1df3742d6497400338e098e1	SegmentId: e9ac2a80cfac4ec8	Sampled: true	
+	REPORT RequestId: d0d68957-89b8-459d-99c8-a0d23dcb9021	Duration: 76.04 ms	Billed Duration: 77 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+	REPORT RequestId: d738fb51-c735-4ff2-bae4-5ca833f80e0f	Duration: 85.15 ms	Billed Duration: 86 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+	REPORT RequestId: 6897caf6-f2ec-4fc0-80bf-e773100de243	Duration: 78.36 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-2fe3f87b66bcaf5a40a7e275	SegmentId: d90633de92c62de5	Sampled: true	
+	REPORT RequestId: 01be7a84-7ae9-4f88-a66d-0eac303cecea	Duration: 78.17 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-60a0ada90dac9fc5025b71cd	SegmentId: 2cdcfc40a9d799f4	Sampled: true	
+	REPORT RequestId: 39f6f451-76c9-4dc5-82dc-bd79585ed9e8	Duration: 80.80 ms	Billed Duration: 81 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-617be9ee4932adb541f780c8	SegmentId: 434a47b1eb6197fe	Sampled: true	
+	REPORT RequestId: dcdeb702-d82e-4092-a6ce-9bd4c63746d5	Duration: 82.83 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-34eae2a07cc8cc5a2b8b22c7	SegmentId: 6054dee7f2d60ccd	Sampled: true	
+	REPORT RequestId: ecaa069f-b21e-40b7-879f-f0d9e355d80d	Duration: 82.66 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-05f67e4a5fa8f6e0189891b8	SegmentId: d18c9579054ef795	Sampled: true	
+	REPORT RequestId: bc30a0ac-535e-4335-9a05-dd53a8a07d34	Duration: 83.59 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-12722e9d30d031a9511024ca	SegmentId: 58b3bc90ab9289f1	Sampled: true	
+	REPORT RequestId: 9110a664-ebb4-4ea2-8838-864b2f6a06e6	Duration: 74.65 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-51d78f927d14fafd4c9df8cd	SegmentId: 109ec3bc0c675e6b	Sampled: true	
+	REPORT RequestId: 33dd6806-bb6e-43e9-bd64-d354f3007f93	Duration: 87.08 ms	Billed Duration: 88 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-3fa56cdf14d5798109c9cd0e	SegmentId: fb15286d72b9f63a	Sampled: true	
+	REPORT RequestId: dcb530d8-23b0-4d4e-970e-584ffc67b5a7	Duration: 74.61 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-2921f19a2e0ac9ba4652af18	SegmentId: e2080b357a3cd5b6	Sampled: true	
+	REPORT RequestId: 780d2a64-d41b-4cf2-80f4-bd86caa40a4a	Duration: 78.97 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241a-18adf3b17a6b82eb72c323f4	SegmentId: a02535f9fcb3aeb6	Sampled: true	
+	REPORT RequestId: 48191cf9-9edf-4d56-a09b-2d468491e22a	Duration: 71.56 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-1b9a312812da0cb62e4b2be6	SegmentId: e366f2d21d5f54e7	Sampled: true	
+	REPORT RequestId: b3a1e51f-024e-4c11-9c5d-0a788e395fe4	Duration: 76.56 ms	Billed Duration: 77 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-7f768bea50495b47629c6007	SegmentId: 4fbd0b641dc51570	Sampled: true	
+	REPORT RequestId: 649b82d2-1f8f-42cf-bb98-8613f1faaad5	Duration: 87.31 ms	Billed Duration: 88 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-122ffc2c34380cbc6bfd057b	SegmentId: dc713547a6097e03	Sampled: true	
+	REPORT RequestId: 0d9d85fa-85ff-4663-9ac9-8794207df5ae	Duration: 78.38 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-45581283243cfa1e0e70a77b	SegmentId: aad937e78cc96230	Sampled: true	
+	REPORT RequestId: 8c0b04c8-b22d-458d-b5a2-bcce21b4021d	Duration: 78.53 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-132a6e2a3225311b78459b83	SegmentId: b828bbe22d5f13ff	Sampled: true	
+	REPORT RequestId: 39d0f372-0614-4c50-a140-a9fc371bc74d	Duration: 74.67 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-57b76df800723370035d0547	SegmentId: b6221faaa5e800f6	Sampled: true	
+	REPORT RequestId: fda2d632-af5d-468d-aeb1-26b01c45c1df	Duration: 76.44 ms	Billed Duration: 77 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+	REPORT RequestId: 885b00c9-561a-4386-a9d3-b6d9f43502eb	Duration: 83.34 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-055af2f73ea84e59214f8db8	SegmentId: f42741ff2117f437	Sampled: true	
+	REPORT RequestId: f2c419a5-47ff-4ef4-8ada-c217d90b9d3d	Duration: 74.08 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-49ae294527119b1626c52482	SegmentId: 3bb8fde9497ac2db	Sampled: true	
+	REPORT RequestId: 7974c8bf-10d1-4eb0-aee1-9bd532800527	Duration: 66.45 ms	Billed Duration: 67 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-461df6281bb9d4403d0f121e	SegmentId: a59c30f6dfd55fba	Sampled: true	
+	REPORT RequestId: 4e2dcd7b-1c2f-4a61-882a-9190a31b2fc3	Duration: 75.56 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-05cbad6a71acccf730c1723d	SegmentId: 32d79746acfdbd11	Sampled: true	
+	REPORT RequestId: 6928dc05-97ab-4ca3-b7f1-cfc5df4bb248	Duration: 82.62 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-7b9f7c6c0ea3868454ad76ec	SegmentId: de8dd87d35af4373	Sampled: true	
+	REPORT RequestId: 25a1cfa5-1410-499b-9103-75a40a20161e	Duration: 74.83 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-50c4bfbd0c37996c52247e88	SegmentId: 89a17b9b5354da99	Sampled: true	
+	REPORT RequestId: 0e5e865f-19f8-4f0b-b0af-27fae006e75d	Duration: 70.34 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-2b58e52769df5a8b46e98fb3	SegmentId: 295b16811b140831	Sampled: true	
+	REPORT RequestId: b0078927-0c3d-46b7-887f-f433512b889e	Duration: 71.75 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-4e8dcbd123235d3d47b38fd8	SegmentId: 6a3754aebbb4bd86	Sampled: true	
+	REPORT RequestId: c235e76f-f876-436d-b05f-7642c66c65e3	Duration: 91.35 ms	Billed Duration: 92 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-248a0eca6bde11766f3953dc	SegmentId: 7a7f9290f03b305d	Sampled: true	
+	REPORT RequestId: ade109f5-8bd0-42ed-8fb9-08f0f8369c82	Duration: 70.25 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-6e37d1e026bce20b5f9b0fa3	SegmentId: 34be7062c3089506	Sampled: true	
+	REPORT RequestId: 36481e5a-2ee1-4c11-b491-38701b654c2e	Duration: 74.05 ms	Billed Duration: 75 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-2b60885953435221408f685d	SegmentId: c9050ad12c778003	Sampled: true	
+	REPORT RequestId: ed5c1398-3895-4015-9759-ce1b80934a97	Duration: 76.44 ms	Billed Duration: 77 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-1e18e63346847fdd601801f8	SegmentId: b81bb902822563ab	Sampled: true	
+	REPORT RequestId: c9e45ac4-0345-4e8d-9148-3944bf12d487	Duration: 86.39 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-45e96a42439c2c3f55dde8a4	SegmentId: d38d2693257c1ccf	Sampled: true	
+	REPORT RequestId: 4e895744-9cbd-483a-a715-7aaa3d483a72	Duration: 78.02 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-3c7883f9590e711629d86087	SegmentId: 08686e53cb7a0ae0	Sampled: true	
+	REPORT RequestId: b78c9304-3623-4d48-8060-87a268871d15	Duration: 75.83 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-3a861ed04c4997cb7be302af	SegmentId: f1cf694469d03af8	Sampled: true	
+	REPORT RequestId: 3d3b5fb2-a4f2-4bc0-a85b-9005ea1a4e9e	Duration: 83.44 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-089790af7e40d69141a3dee6	SegmentId: 0f932f745fe8bf9d	Sampled: true	
+	REPORT RequestId: e549b5c9-67c1-43c3-9a98-b7dcda7f91f9	Duration: 70.17 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-0604fe74171857c875b47aaa	SegmentId: 241278ce1e76cd36	Sampled: true	
+	REPORT RequestId: 2c2ee466-08ee-40a9-b13c-d2c005479646	Duration: 66.09 ms	Billed Duration: 67 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-001d49790ec279f5405b1cec	SegmentId: d5dd16475b1c62bb	Sampled: true	
+	REPORT RequestId: e6b559e1-e3d0-4f8a-b1e6-1a46159cfdae	Duration: 83.77 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-6088747243489b7f1f6f7459	SegmentId: 59d759de907f561a	Sampled: true	
+	REPORT RequestId: 5da383de-b882-4447-9ee2-390d1dfc2a8c	Duration: 83.05 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+	REPORT RequestId: cfaa9a38-7057-4d60-a575-fdd675ff6917	Duration: 75.18 ms	Billed Duration: 76 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-1a37385b0a034d7269ea0621	SegmentId: 24c8d3095bc3d867	Sampled: true	
+	REPORT RequestId: 67972ed0-68d3-49f1-b89e-7caaa0511dd8	Duration: 71.11 ms	Billed Duration: 72 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-438eb06559a23a7a30773dab	SegmentId: 9ff1f6488228c90f	Sampled: true	
+	REPORT RequestId: 1000d67f-bf30-4523-80e6-6e10c661a9a6	Duration: 69.54 ms	Billed Duration: 70 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-46beb66b270ef09a3d18396f	SegmentId: e075fa44311ce03d	Sampled: true	
+	REPORT RequestId: d9b4b942-9b67-4dc4-b7e3-ae623483e81d	Duration: 70.33 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-4209c4fb74f1a2277bb26948	SegmentId: 8bb5c7f452f801aa	Sampled: true	
+	REPORT RequestId: 9b371459-82ce-4fd5-b44b-303f7db1e1ec	Duration: 77.88 ms	Billed Duration: 78 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-2b9729095ede432c024e8ca3	SegmentId: 442839ed6ef873a2	Sampled: true	
+	REPORT RequestId: 53ac7fc9-216b-48b8-bdd6-5a4a156fcdfd	Duration: 82.59 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-0e12bca0198d3bfe200afe95	SegmentId: c10b849614d9a0a5	Sampled: true	
+	REPORT RequestId: e0565c06-8ae5-45b8-be0e-f6f42d26a515	Duration: 86.73 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-23050a165d162d730440cb9d	SegmentId: 588e91109e150df3	Sampled: true	
+	REPORT RequestId: 7b921c7b-efc0-45e0-864e-76a3193864d0	Duration: 83.56 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-6986fd9f56d0be926dfbc100	SegmentId: 13334d3e3dbe6517	Sampled: true	
+	REPORT RequestId: 5e11d3c5-c3f6-4c2c-8ada-edeb1b475049	Duration: 91.47 ms	Billed Duration: 92 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-459dfe105adf15620c9496c1	SegmentId: 6d43053dc0ec5cd4	Sampled: true	
+	REPORT RequestId: 5ead4891-7367-475c-a6bf-c8859e8bd5ff	Duration: 82.27 ms	Billed Duration: 83 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-11db2bb62be574a7096b39c6	SegmentId: 272116efc0792af5	Sampled: true	
+	REPORT RequestId: 49104bcd-b643-4554-be5c-804f43bc02f5	Duration: 79.48 ms	Billed Duration: 80 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-24d29f335cf8cdec4fbdb742	SegmentId: 3086de7abc6e6066	Sampled: true	
+	REPORT RequestId: 08afc31a-6776-4dfa-87ec-5fc5fe6cc412	Duration: 70.36 ms	Billed Duration: 71 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-784eaa522cf4bcb779bfb38c	SegmentId: 7aa491f3ab94ea0a	Sampled: true	
+	REPORT RequestId: 2e8eadf0-7d30-44f5-ab06-62e897aaf9ae	Duration: 83.01 ms	Billed Duration: 84 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-7bd8627a1592e33941054880	SegmentId: 64fd288a946e737a	Sampled: true	
+	REPORT RequestId: 3cd23ee5-be9d-42cc-b98f-adf8eafe7adc	Duration: 80.24 ms	Billed Duration: 81 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-208e47a9701656d615bd5813	SegmentId: 1170aac6b192a669	Sampled: true	
+	REPORT RequestId: 4a144000-c366-4cc6-8386-7a335f6f2230	Duration: 92.23 ms	Billed Duration: 93 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-192ece1b16c8b0395d382a9e	SegmentId: 1c7686e411f368fe	Sampled: true	
+	REPORT RequestId: 34bb070c-af9e-4e41-b110-da3563991f6e	Duration: 78.62 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-7d0db91c4d8da79f72add7dc	SegmentId: 577db6ec1b5f3202	Sampled: true	
+	REPORT RequestId: eab653ab-927f-4b95-8290-89971c571fe6	Duration: 86.23 ms	Billed Duration: 87 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-0e3ba0d70a13c9422a5bf2e3	SegmentId: c6495092f02f4635	Sampled: true	
+	REPORT RequestId: ec57d02d-022f-4999-850f-f2483923878c	Duration: 84.15 ms	Billed Duration: 85 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-57f6e2743fd9876b19dbe8a7	SegmentId: da6f0864c1a1c30d	Sampled: true	
+	REPORT RequestId: 8d58eb9a-0cff-46ec-99d0-862c32c6bcd9	Duration: 66.25 ms	Billed Duration: 67 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+	REPORT RequestId: a8819ab9-8cd7-4e1e-bb68-df133b287e89	Duration: 78.11 ms	Billed Duration: 79 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-736d19113bef09e01897387a	SegmentId: c3347b970415e84f	Sampled: true	
+	REPORT RequestId: 997f43df-516c-409e-8dd1-0802eb01cc83	Duration: 85.99 ms	Billed Duration: 86 ms	Memory Size: 512 MB	Max Memory Used: 144 MB	
+XRAY TraceId: 1-69c8241b-60e5f9941ee804f726b2cb86	SegmentId: 7d6fd39261a1f7ea	Sampled: true	
+
